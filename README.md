@@ -1,2 +1,2 @@
 # st2195_assignment_2
-This assignment requires us to prectice csv
+This assignment requires us to practice csv
